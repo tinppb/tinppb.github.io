@@ -1,6 +1,6 @@
 ---
 title: "EuroScout AI — Phân tích cầu thủ Big 5 giải VĐQG châu Âu mùa 2025–2026"
-date: 2025-05-21 22:00:00 +0700
+date: 2026-05-21 22:00:00 +0700
 categories: [Projects, Data Analytics]
 tags: [javascript, python, football, data-analytics, sofascore, machine-learning, web-scraping]
 ---
