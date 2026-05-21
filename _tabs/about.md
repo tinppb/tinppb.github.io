@@ -12,7 +12,7 @@ I'm currently an AI intern with a strong interest in machine learning, deep lear
 - 🧠 Interested in AI, backend development, and data science
 - 🔭 Currently working on: ML projects & technical blogging
 - 📫 How to reach me:
-  - [GitHub](https://github.com/baotin2004)
+  - [GitHub](https://github.com/tinppb)
   - [LinkedIn](https://www.linkedin.com/in/baotin2004/)
   - [Email](mailto:baotinphamphuoc@gmail.com)
 
@@ -29,7 +29,7 @@ I'm currently an AI intern with a strong interest in machine learning, deep lear
 
 ## 📝 Projects
 
-Visit my [GitHub](https://github.com/baotin2004) to explore some of my work.
+Visit my [GitHub](https://github.com/tinppb) to explore some of my work.
 
 ---
 
