@@ -18,7 +18,7 @@ Với ý tưởng đó, mình đã xây dựng [EuroScout AI](https://euro-scout
 
 Bài viết này sẽ đi sâu vào cả hai phần: cách thu thập dữ liệu và cách biến dữ liệu thô thành insight thông qua dashboard tương tác.
 
-![EuroScout AI Dashboard](/assets1/img/euroscout/dashboard-demo.png)
+![EuroScout AI Dashboard](/assets/img/euroscout/dashboard-demo.png)
 
 ---
 
