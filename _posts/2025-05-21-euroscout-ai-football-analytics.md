@@ -234,7 +234,7 @@ Dữ liệu từ Phần 1 (CSV) được chuyển đổi sang JSON qua script `b
     ▼
 build-data.mjs
     │  - Đọc & gộp 5 file CSV
-    │  - Lọc cầu thủ < 270 phút (≈ 3 trận)
+    │  - Lọc cầu thủ dưới 270 phút (≈ 3 trận)
     │  - Map 44 cột CSV → JSON keys
     │  - Chuẩn hóa vị trí: Forward → FW, Midfielder → MF,...
     │  - Fix encoding đặc biệt
